@@ -3,6 +3,7 @@
     - Fortnight
     - GTA
     - Spider-man
+    - Monster Hunter
     
    + Shooting games:
     - CSGO
