@@ -1,9 +1,14 @@
   + Adventure games:
     - Genshin impact
-    - Fortnight
     - GTA
     - Spider-man
     - Monster Hunter
+    
+   + Shooting games:
+    - CSGO
+    - Apex
+    - Fortnight
+    - Valorant
     
     + Puzzel games:
      - Chess
@@ -15,17 +20,8 @@
      - Minecarft
      - Roblox
      
-    + Adventure games:
-    - Genshin impact
-    - Fortnight
-    - GTA
-    - Spider-man
-    - Monster Hunter
      
-     
-     
-     
-    
+
     
     
 
