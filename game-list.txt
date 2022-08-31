@@ -7,3 +7,5 @@ Dota2
 Dota
 LOL
 TFT
+Hungry Shark
+RUST
