@@ -9,3 +9,8 @@ LOL
 TFT
 Hungry Shark
 RUST
+
+Mario
+Pong
+Chess
+Supper Mario bro
