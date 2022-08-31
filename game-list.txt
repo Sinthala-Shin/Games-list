@@ -20,6 +20,13 @@
      - Minecarft
      - Roblox
      
+    + Adventure games:
+    - Genshin impact
+    - Fortnight
+    - GTA
+    - Spider-man
+    - Monster Hunter
+     
      
      
      
