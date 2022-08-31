@@ -4,11 +4,6 @@
     - GTA
     - Spider-man
     
-   + Shooting games:
-    - CSGO
-    - Apex
-    - Valorant
-    
     + Puzzel games:
      - Chess
      - Stray
