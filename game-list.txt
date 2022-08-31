@@ -1,5 +1,6 @@
 Game lists:
 
+These are all the games of the list:
 
 + Adventure games:
     - Genshin impact
