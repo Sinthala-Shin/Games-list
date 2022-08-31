@@ -13,6 +13,14 @@
     + Puzzel games:
      - Chess
      - Stray
+     - Sudoku
+     - Go
+     
+    + Sandbox games:
+     - Minecarft
+     - Roblox
+     
+     
      
      
     
